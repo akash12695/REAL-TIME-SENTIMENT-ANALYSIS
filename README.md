@@ -30,7 +30,7 @@ It refers to the use of natural language processing, text analysis, computationa
 
 ## 1. Web Scrapping - 
 
-Done the web scrapping using beautiful soup which is a Python library for pulling data out of HTML and XML files.
+Extracted tweets from Twitter API using the Tweepy library.
 
 ## 2. Data Preprocessing - 
 
