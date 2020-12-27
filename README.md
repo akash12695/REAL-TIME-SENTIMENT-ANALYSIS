@@ -46,7 +46,7 @@ This part includes quite a few steps :-
 
 ## 3. Model Building - 
 
-Model building is done using the naive baeyes algorithm with training on around 20k datapoints and an accuracy of more than 85%.
+Model building is done using the Naive Bayes algorithm with training on around 20k datapoints and an accuracy of more than 85%.
 
 ## 4. Deployment - Deployment is done on local host using Streamlit 
 
